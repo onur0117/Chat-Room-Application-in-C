@@ -1,0 +1,2 @@
+gcc chat_server.c -o Server -lws2_32 -lpthread
+gcc chat_client.c -o Client -lws2_32 -lpthread
